@@ -3,7 +3,7 @@
 **Where does an online store lose its customers, and which products should it fix first?**
 An end-to-end analysis of real e-commerce clickstream data using **PostgreSQL, Excel and Power BI**.
 
-![Dashboard preview](Images/overall_Funnel.png)
+![Dashboard preview](Images/overall_funnel.png)
 
 ---
 
