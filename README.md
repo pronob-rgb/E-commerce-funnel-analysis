@@ -101,7 +101,7 @@ Also ran a Pareto analysis (how few items drive most purchases) and estimated th
 
 | Funnel overview | When people shop | Categories & items | Problem items list |
 |---|---|---|---|
-| ![Page 1](images/overall_funnel.png) | ![Page 2](images/purchase_stats.png) | ![Page 3](images/category_and_conversion_stats.png) | ![Page 4](images/problem_items_list.png) |
+| ![Page 1](Images/overall_funnel.png) | ![Page 2](Images/purchase_stats.png) | ![Page 3](Images/category_and_conversion_stats.png) | ![Page 4](Images/problem_items_list.png) |
 
 ---
 
