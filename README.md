@@ -117,21 +117,7 @@ Also ran a Pareto analysis (how few items drive most purchases) and estimated th
 
 ---
 
-## 9. How to Reproduce
-
-1. Download the dataset from the Kaggle link above.
-2. Create a PostgreSQL database and run the SQL files in order:
-   - `sql/01_load_raw_data.sql`
-   - `sql/02_cleaning.sql`
-   - `sql/03_funnel_metrics.sql`
-   - `sql/04_category_item_analysis.sql`
-   - `sql/05_pareto_and_uplift.sql`
-3. Open `excel/checks_and_whatif.xlsx` to see the checks and the what-if model.
-4. Open `powerbi/funnel_dashboard.pbix` in Power BI Desktop and point it to your database or exported tables.
-
----
-
-## 10. Repository Structure
+## 9. Repository Structure
 
 ```
 ecommerce-funnel-analysis/
@@ -145,7 +131,7 @@ ecommerce-funnel-analysis/
 
 ---
 
-## 11. About Me
+## 10. About Me
 
 **Pronob**: aspiring data analyst
 
