@@ -138,4 +138,4 @@ ecommerce-funnel-analysis/
 
   Email: pronobbhatt@gmail.com
 
- Other project: [Olist revenue leakage by logistics dashboard: ]
+ Other project: [Olist revenue leakage by logistics dashboard: https://github.com/pronob-rgb/Revenue-Leakage-Dashboard ]
