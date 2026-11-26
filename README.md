@@ -137,3 +137,5 @@ ecommerce-funnel-analysis/
 **Pronob**: aspiring data analyst
 
   Email: pronobbhatt@gmail.com
+
+ Other project: [Olist revenue leakage by logistics dashboard: ]
