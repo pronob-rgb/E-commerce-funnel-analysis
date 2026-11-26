@@ -81,7 +81,7 @@ Also ran a Pareto analysis (how few items drive most purchases) and estimated th
 
 1. **Biggest drop-off:** 3% of visitors who viewed items added one to the cart, but only 31% of those who added to cart went on to buy. The largest loss happens at the **view → cart** stage as we failed to convert 97% of viewers into carters.
 2. **Cart abandonment:** 69% of visitors who added an item to their cart did not buy.
-3. **Timing:** Conversion is highest on Tuesday and around 1pm, and lowest on Saturday. 76% of buyers purchase on the same day they first visit.
+3. **Timing:** Conversion is highest on Tuesday and around 1pm, and lowest on Saturday. 76% of buyers purchase on the same day they first visit. Night is when the most activity and purchases occurs.
 4. **Categories:** ID 105 converts exceptional at 4.1%, while ID 788 has the weakest conversion at 0.05%.
 5. **Concentration:** About 34% of purchased items account for 80% of purchases.
 6. **Opportunity:** 28.31% high-traffic items convert below their category average. If they closed just 25% of the gap, the store would gain roughly 588 purchases.
