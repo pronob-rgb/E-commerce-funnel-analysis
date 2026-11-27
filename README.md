@@ -86,7 +86,7 @@ Also ran a Pareto analysis (how few items drive most purchases) and estimated th
 5. **Concentration:** About 34% of purchased items account for 80% of purchases.
 6. **Opportunity:** 28.31% high-traffic items convert below their category average. If they closed just 25% of the gap, the store would gain roughly 588 purchases.
 
-> For more detailed insights head to the presentation.
+> For more detailed insights head to the presentation under Power BI folder.
 ---
 
 ## 6. Recommendations
