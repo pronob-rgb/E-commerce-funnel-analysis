@@ -51,7 +51,7 @@ This project answers four questions:
 **Step 2: Cleaning.** Converted millisecond timestamps to proper dates and times, checked for exact duplicate rows, and checked that event types and transaction IDs made sense. Built the item-to-category mapping from the item properties file. Every issue found and every fix is recorded in a cleaning log.
 - Duplicates: I removed 13,278 duplicates in total which makes up around 0.0048% of the whole dataset also includes transaction duplicates too.
 - Categories with no parent: Cleaned up 25 categories having no parent.
-- Items with no category: We brushed off 17,984 those items as we don't need it. 
+- Items with no category: Removed 17,984 those items as we don't need it. 
 
 **Step 3: Funnel metrics.** Built visitor-level KPIs: view-to-cart rate, cart-to-purchase rate, overall conversion, cart abandonment, time to purchase and purchase gaps for repeat buyers. Trended them by week, day of week, hour and month.
 
@@ -79,7 +79,7 @@ Also ran a Pareto analysis (how few items drive most purchases) and estimated th
 
 ## 5. Key Findings
 
-1. **Biggest drop-off:** 3% of visitors who viewed items added one to the cart, but only 31% of those who added to cart went on to buy. The largest loss happens at the **view → cart** stage as we failed to convert 97% of viewers into carters.
+1. **Biggest drop-off:** Only 3% of viewers added items to the cart, but only 31% of them went on to actually purchase. The largest loss happens at the **view → cart** stage as we failed to convert 97% of viewers into carters.
 2. **Cart abandonment:** 69% of visitors who added an item to their cart did not buy.
 3. **Timing:** Conversion is highest on Tuesday and around 1pm, and lowest on Saturday. 76% of buyers purchase on the same day they first visit. Night is when the most activity and purchases occurs.
 4. **Categories:** ID 105 converts exceptional at 4.1%, while ID 788 has the weakest conversion at 0.05%.
@@ -92,7 +92,7 @@ Also ran a Pareto analysis (how few items drive most purchases) and estimated th
 ## 6. Recommendations
 
 1. **Fix the top 10 problem items first.** They hold 80% of the estimated opportunity. Review their pages, pricing and stock.
-2. **Reduce cart abandonment.** [For example: reminders, simpler checkout, or a clearer shipping and price display.]
+2. **Reduce cart abandonment.** For example: reminders, simpler checkout, or a clearer shipping and price display.
 3. **Time promotions** for the days and hours with the highest conversion, or test what happens in the weak periods.
 4. **Give hidden gems more visibility** with higher placement, since they convert well but get little traffic.
 
